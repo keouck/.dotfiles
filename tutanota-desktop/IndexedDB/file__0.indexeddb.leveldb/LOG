@@ -1,0 +1,12 @@
+2021/07/13-08:27:32.343 3be1 Reusing MANIFEST /home/anon/.config/tutanota-desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/07/13-08:27:32.343 3be1 Recovering log #51
+2021/07/13-08:27:32.395 3be1 Reusing old log /home/anon/.config/tutanota-desktop/IndexedDB/file__0.indexeddb.leveldb/000051.log 
+2021/07/13-08:28:06.462 3bcc Level-0 table #56: started
+2021/07/13-08:28:06.518 3bcc Level-0 table #56: 1904751 bytes OK
+2021/07/13-08:28:06.526 3bcc Delete type=0 #51
+2021/07/13-08:28:06.734 3bcc Compacting 1@1 + 1@2 files
+2021/07/13-08:28:06.788 3bcc Generated table #57@1: 9834 keys, 742979 bytes
+2021/07/13-08:28:06.788 3bcc Compacted 1@1 + 1@2 files => 742979 bytes
+2021/07/13-08:28:06.790 3bcc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-08:28:06.790 3bcc Delete type=2 #56
+2021/07/13-08:28:06.790 3bcc Delete type=2 #53

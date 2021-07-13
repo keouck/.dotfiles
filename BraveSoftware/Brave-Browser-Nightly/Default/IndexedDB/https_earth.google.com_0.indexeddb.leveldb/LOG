@@ -1,0 +1,7 @@
+2021/06/18-15:08:05.204 b7a7 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_earth.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/18-15:08:05.218 b7a7 Recovering log #3
+2021/06/18-15:08:05.220 b7a7 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_earth.google.com_0.indexeddb.leveldb/000003.log 
+2021/06/18-15:50:03.910 be7a Level-0 table #5: started
+2021/06/18-15:50:03.913 be7a Level-0 table #5: 832 bytes OK
+2021/06/18-15:50:03.916 be7a Delete type=0 #3
+2021/06/18-15:50:03.916 be7a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

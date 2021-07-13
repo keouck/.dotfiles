@@ -1,0 +1,154 @@
+{
+   "bookmark_notice": {
+      "description": "",
+      "message": "Les favoris de votre navigateur vous manquent ? Veillez à cocher l'option \u003Cstrong>Afficher la barre de favoris\u003C/strong> dans les paramètres de Chrome."
+   },
+   "browser_action_hover": {
+      "description": "",
+      "message": "Recherche Ecosia"
+   },
+   "common_header_menu_about": {
+      "description": "",
+      "message": "Qui sommes-nous ?"
+   },
+   "common_header_menu_blog": {
+      "description": "",
+      "message": "Blog"
+   },
+   "common_header_menu_default": {
+      "description": "",
+      "message": "Faire d'Ecosia le moteur de recherche par défaut"
+   },
+   "common_header_menu_faq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "common_header_menu_giftingtrees": {
+      "description": "",
+      "message": "Offrez des arbres"
+   },
+   "common_header_menu_how": {
+      "description": "",
+      "message": "Comment fonctionne Ecosia ?"
+   },
+   "common_header_menu_jobs": {
+      "description": "",
+      "message": "Offres d'emploi"
+   },
+   "common_header_menu_mobileapp": {
+      "description": "",
+      "message": "Appli mobile"
+   },
+   "common_header_menu_new": {
+      "description": "",
+      "message": "Nouveau"
+   },
+   "common_header_menu_news_mobile": {
+      "description": "",
+      "message": "Actus"
+   },
+   "common_header_menu_privacy": {
+      "description": "",
+      "message": "Vie privée"
+   },
+   "common_header_menu_settings": {
+      "description": "",
+      "message": "Paramètres"
+   },
+   "common_header_menu_shop": {
+      "description": "",
+      "message": "Boutique"
+   },
+   "common_header_menu_titletag": {
+      "description": "",
+      "message": "Menu"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Sélection de recherche avec Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "En savoir plus"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Ce n'est pas la page que tu t'attendais à voir s'afficher ? Découvre comment restaurer les signets et paramétrer ta page \"Nouvel onglet\""
+   },
+   "new_tab_page_or": {
+      "description": "",
+      "message": "ou"
+   },
+   "new_tab_page_removed": {
+      "description": "",
+      "message": "Page supprimée"
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Rétablir"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Vignette supprimée"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nouvel onglet"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Annuler"
+   },
+   "pop_up_greenleaf": {
+      "description": "",
+      "message": "Cette organisation fait des choix durables."
+   },
+   "pop_up_greenleaf_ecosia": {
+      "description": "",
+      "message": "Ecosia vous guide vers des choix plus écologiques et durables."
+   },
+   "pop_up_greenleaf_ecosia_org": {
+      "description": "",
+      "message": "ecosia.org"
+   },
+   "pop_up_greenleaf_go_to": {
+      "description": "",
+      "message": "Rendez-vous sur"
+   },
+   "pop_up_greenleaf_learnmore": {
+      "description": "",
+      "message": "En savoir plus"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Lance une recherche pour planter des arbres..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Cette extension fait d'Ecosia votre moteur de recherche pour vous permettre de planter des arbres à chaque recherche."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Cette extension permet de faire d'Ecosia votre moteur de recherche et de personnaliser la page « Nouvel onglet » de votre navigateur afin de planter des arbres à chaque recherche."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Cette extension permet de rediriger vos recherches de l'omnibox vers Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia – Le moteur de recherche qui plante des arbres"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Redirection de l'omnibox vers Ecosia (ancienne version)"
+   },
+   "totalcounter_body": {
+      "description": "",
+      "message": "Arbres déjà plantés par les utilisateurs d'Ecosia"
+   },
+   "treecounter_description": {
+      "description": "",
+      "message": "Arbres déjà plantés par les utilisateurs d'Ecosia"
+   }
+}

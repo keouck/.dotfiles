@@ -1,0 +1,6 @@
+2021/06/14-17:13:34.283 1d52a Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2021/06/14-17:13:34.287 1d52a Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/14-17:14:06.306 1d4ad Level-0 table #5: started
+2021/06/14-17:14:06.308 1d4ad Level-0 table #5: 846 bytes OK
+2021/06/14-17:14:06.310 1d4ad Delete type=0 #3
+2021/06/14-17:14:06.310 1d4ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

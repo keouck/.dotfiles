@@ -1,0 +1,16 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureMode=5
+cropRegion=0,0,1919,1079
+window-position=391,0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/identies1.png,file:$HOME/Pictures/stats.png,file:$HOME/Pictures/perspectives.png,file:$HOME/Pictures/identities2.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/anon/Pictures/stats.png
+lastSaveLocation=file:///home/anon/Pictures/Screenshot_20210712_153118.png

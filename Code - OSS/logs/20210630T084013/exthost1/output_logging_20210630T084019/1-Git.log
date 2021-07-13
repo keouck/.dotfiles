@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/anon/Documents/House-price-prediction
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s edda5c76fb75ce51fb45cf725ccb4ed6bfd8c072
+> git show --textconv :website/templates/predict.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/predict.html
+> git cat-file -s d25caf26e5d255a4c3cb80c4554eb1a8701fd823

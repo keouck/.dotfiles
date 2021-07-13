@@ -1,0 +1,5 @@
+2021/07/13-08:27:09.891 3a8e Creating DB /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb since it was missing.
+2021/07/13-08:27:09.897 3a8e Reusing MANIFEST /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/13-08:45:42.923 4202 Level-0 table #5: started
+2021/07/13-08:45:42.950 4202 Level-0 table #5: 797349 bytes OK
+2021/07/13-08:45:42.953 4202 Delete type=0 #3

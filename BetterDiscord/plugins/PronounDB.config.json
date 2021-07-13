@@ -1,0 +1,13 @@
+{
+    "currentVersionInfo": {
+        "version": "0.0.5",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "customPronouns": {
+            "743071363065184297": "gae"
+        },
+        "showOnTimestamp": true,
+        "showInUserPopout": true
+    }
+}

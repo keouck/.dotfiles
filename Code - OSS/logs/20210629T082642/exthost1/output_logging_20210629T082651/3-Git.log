@@ -1,0 +1,178 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/anon/Documents/House-price-prediction
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :website/app.py
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/app.py
+> git check-ignore -v -z --stdin
+> git cat-file -s 6fb834a10148b4ead589f385b0f7f870efca985a
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git show --textconv :website/templates/index.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/index.html
+> git cat-file -s a0ec9235e99bf638c8f208cd9ae3377278829ae6
+> git show --textconv :website/templates/predict.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/predict.html
+> git cat-file -s f1972dafdd0c4fe24128ccacbc241bfc1e447edc
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :website/app.py
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/app.py
+> git cat-file -s 6fb834a10148b4ead589f385b0f7f870efca985a
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s d47e92cb24ff4f0721465e0b4cd04b20e08a1f1a
+> git config --get commit.template
+> git show --textconv :website/templates/privacy-policy.html
+> git show --textconv :website/templates/predict.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/predict.html
+> git cat-file -s f1972dafdd0c4fe24128ccacbc241bfc1e447edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s d47e92cb24ff4f0721465e0b4cd04b20e08a1f1a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s edda5c76fb75ce51fb45cf725ccb4ed6bfd8c072
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :website/templates/privacy-policy.html
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s edda5c76fb75ce51fb45cf725ccb4ed6bfd8c072
+> git show --textconv :website/templates/privacy-policy.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s edda5c76fb75ce51fb45cf725ccb4ed6bfd8c072
+> git config --get commit.template
+> git show --textconv :website/templates/privacy-policy.html
+> git show --textconv :website/templates/predict.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/predict.html
+> git cat-file -s d25caf26e5d255a4c3cb80c4554eb1a8701fd823
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git cat-file -s edda5c76fb75ce51fb45cf725ccb4ed6bfd8c072
+> git check-ignore -v -z --stdin
+> git show --textconv :LICENCE
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/LICENCE
+> git cat-file -s b02ee668b506330b8bfeee6e213b7f9dbcfa74db

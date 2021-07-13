@@ -1,0 +1,10 @@
+[2021-07-12 08:12:00.538] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2021-07-12 08:12:00.754] [main] [info] update#setState idle
+[2021-07-12 08:12:30.756] [main] [info] update#setState checking for updates
+[2021-07-12 08:12:31.083] [main] [info] update#setState idle
+[2021-07-12 08:13:40.666] [main] [warning] Error attempting to set a password:  {}
+[2021-07-12 08:13:40.666] [main] [warning] Error attempting to set a password:  {}
+[2021-07-12 08:13:40.878] [main] [warning] Error attempting to set a password:  {}
+[2021-07-12 08:13:40.878] [main] [warning] Error attempting to set a password:  {}
+[2021-07-12 08:13:41.095] [main] [warning] Error attempting to set a password:  {}
+[2021-07-12 08:13:41.097] [main] [warning] Error attempting to set a password:  {}

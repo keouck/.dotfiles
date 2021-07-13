@@ -1,0 +1,15 @@
+2021/07/06-13:50:39.915 6cc6 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-13:50:39.917 6cc6 Recovering log #22
+2021/07/06-13:50:39.918 6cc6 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/000022.log 
+2021/07/06-13:50:42.044 6cc6 Level-0 table #27: started
+2021/07/06-13:50:42.046 6cc6 Level-0 table #27: 209 bytes OK
+2021/07/06-13:50:42.049 6cc6 Delete type=0 #22
+2021/07/06-13:50:42.050 6cc6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/06-13:50:42.050 6cc6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 110173 : 1
+2021/07/06-13:50:42.050 6cc6 Compacting 1@1 + 1@2 files
+2021/07/06-13:50:42.079 6cc6 Generated table #28@1: 6030 keys, 435755 bytes
+2021/07/06-13:50:42.079 6cc6 Compacted 1@1 + 1@2 files => 435755 bytes
+2021/07/06-13:50:42.081 6cc6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/06-13:50:42.082 6cc6 Delete type=2 #27
+2021/07/06-13:50:42.082 6cc6 Delete type=2 #24
+2021/07/06-13:50:42.083 6cc6 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 110173 : 1 .. (end); will stop at (end)

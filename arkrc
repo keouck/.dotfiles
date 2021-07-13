@@ -1,0 +1,32 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/Documents/House-price-prediction/training/,$HOME/Documents/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/Documents/House-price-prediction/training
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Documents/study/school/Japanese/holiday-homework/,file:$HOME/Documents/House-price-prediction/training/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI1 Height 1920x1080=668
+HDMI1 Width 1920x1080=1272
+HDMI1 XPosition 1920x1080=390
+HDMI1 YPosition 1920x1080=289
+HDMI1 eDP1 Height 1920x1080=221
+HDMI1 eDP1 Width 1920x1080=404
+HDMI1 eDP1 XPosition 1920x1080=760
+HDMI1 eDP1 YPosition 1920x1080=442
+State=AAAA/wAAAAD9AAAAAAAAAZQAAABwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=221
+eDP1 Width 1366x768=404
+eDP1 XPosition 1366x768=500
+eDP1 YPosition 1366x768=91
+splitterSizes=269,134
+
+[Recent Files]
+File1[$e]=$HOME/Documents/study/school/Japanese/holiday-homework/discord-canary-0.0.126.tar.gz
+File2[$e]=$HOME/Downloads/highjive-linux.zip
+File3[$e]=$HOME/Downloads/figaro-gui-0.3.0-alpha.tar.gz
+Name1[$e]=discord-canary-0.0.126.tar.gz
+Name2[$e]=highjive-linux.zip
+Name3[$e]=figaro-gui-0.3.0-alpha.tar.gz

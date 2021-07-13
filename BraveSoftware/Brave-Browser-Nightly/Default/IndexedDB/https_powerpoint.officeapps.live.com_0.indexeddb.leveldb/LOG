@@ -1,0 +1,6 @@
+2021/06/27-22:44:55.963 688e Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2021/06/27-22:44:55.970 688e Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/27-22:56:28.141 6e08 Level-0 table #5: started
+2021/06/27-22:56:28.144 6e08 Level-0 table #5: 1318 bytes OK
+2021/06/27-22:56:28.148 6e08 Delete type=0 #3
+2021/06/27-22:56:28.149 6e08 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

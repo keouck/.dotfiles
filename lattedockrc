@@ -1,0 +1,26 @@
+[DownloadDialog Settings]
+HDMI1 Height 1920x1080=494
+HDMI1 Width 1920x1080=700
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=HDMI1
+11=eDP1
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=false
+currentLayout=Extended
+downloadWindowSize=800,550
+lastNonAssignedLayout=Extended
+launchers=applications:firefox.desktop,applications:org.kde.dolphin.desktop
+layoutsColumnWidths=117,80,66,0
+layoutsWindowSize=700,593
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

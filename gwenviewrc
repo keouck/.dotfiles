@@ -1,0 +1,21 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+HDMI1 Height 1920x1080=542
+HDMI1 Width 1920x1080=1020
+HDMI1 XPosition 1920x1080=561
+HDMI1 YPosition 1920x1080=330
+HDMI1 eDP1 Height 1920x1080=1048
+HDMI1 eDP1 Width 1920x1080=952
+HDMI1 eDP1 XPosition 1920x1080=964
+HDMI1 eDP1 YPosition 1920x1080=28
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAPMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshot_20210712_153118.png
+Name1[$e]=Screenshot_20210712_153118.png
+
+[SideBar]
+SideBarSplitterSizes=242,707

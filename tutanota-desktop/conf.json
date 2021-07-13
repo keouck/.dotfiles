@@ -1,0 +1,26 @@
+{
+  "heartbeatTimeoutInSeconds": 240,
+  "defaultDownloadPath": null,
+  "enableAutoUpdate": true,
+  "runAsTrayApp": false,
+  "desktopConfigVersion": 5,
+  "showAutoUpdateOption": true,
+  "mailExportMode": "eml",
+  "spellcheck": "en-GB",
+  "lastBounds": {
+    "scale": 1,
+    "fullscreen": false,
+    "rect": {
+      "x": 140,
+      "y": 162,
+      "width": 1272,
+      "height": 688
+    }
+  },
+  "sseInfo": "AeLxAZordtS6CbOS1eR2LmumVcl8uQGdQvnG6AYQWMCmM9IaFc/HMDNrQODVDQFKGMqLvJXxAXv+fKZkEhM2pw+wp7hOHi4a+ob0Tl+XTrxa17gdVb5XI7xVEn//0J79zGTv5tnaul6rys0tN4bvzjwCmAIRyePr2XTmO0zO9wCo00P05p2kGVRzbv85j8ThaGxvz5VZ5Q+amJAlpcEBFREpsTO+41yCoBIOTazDl+hN6MtLEmq2HSrov08I9/5z7w==",
+  "pushEncSessionKeys": {
+    "MeSn4hY----2": "qR6/IPWzatjrqAHBlSyk8QSLUbnnVnhZoDbd8BF6zDM="
+  },
+  "lastMissedNotificationCheckTime": 1626145061021,
+  "lastProcessedNotificationId": "MeSn6Vi----2"
+}

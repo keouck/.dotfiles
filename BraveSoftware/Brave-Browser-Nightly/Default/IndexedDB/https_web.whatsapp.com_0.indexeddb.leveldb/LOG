@@ -1,0 +1,11 @@
+2021/07/08-13:02:30.778 3c19 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-13:02:30.779 3c19 Recovering log #183
+2021/07/08-13:02:30.812 3c19 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000183.log 
+2021/07/08-13:02:30.812 3c19 Delete type=2 #185
+2021/07/08-13:02:35.574 3886 Compacting 1@1 + 2@2 files
+2021/07/08-13:02:36.272 3886 Generated table #186@1: 29527 keys, 2301811 bytes
+2021/07/08-13:02:36.272 3886 Compacted 1@1 + 2@2 files => 2301811 bytes
+2021/07/08-13:02:36.287 3886 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/08-13:02:36.298 3886 Delete type=2 #184
+2021/07/08-13:02:36.298 3886 Delete type=2 #181
+2021/07/08-13:02:36.299 3886 Delete type=2 #182

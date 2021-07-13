@@ -1,0 +1,14 @@
+{"_id":"autoplayPlaylists","value":false}
+{"_id":"autoplayVideos","value":false}
+{"_id":"barColor","value":false}
+{"_id":"bounds","value":{"x":0,"y":24,"width":1920,"height":1056,"maximized":true}}
+{"_id":"defaultProfile","value":"allChannels"}
+{"_id":"defaultQuality","value":"1080"}
+{"_id":"invidiousInstance","value":"https://invidious.kavin.rocks"}
+{"_id":"playNextVideo","value":false}
+{"_id":"proxyProtocol","value":"socks5"}
+{"_id":"proxyVideos","value":false}
+{"_id":"useProxy","value":false}
+{"_id":"useRssFeeds","value":true}
+{"_id":"useSponsorBlock","value":true}
+{"_id":"bounds","value":{"x":0,"y":24,"width":1920,"height":1056,"maximized":true}}

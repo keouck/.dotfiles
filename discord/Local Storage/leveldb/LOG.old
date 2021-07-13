@@ -1,0 +1,21 @@
+2021/07/12-23:00:32.486 5b9 Reusing MANIFEST /home/anon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/07/12-23:00:32.493 5b9 Recovering log #580
+2021/07/12-23:00:32.496 5b9 Reusing old log /home/anon/.config/discord/Local Storage/leveldb/000580.log 
+2021/07/12-23:01:34.705 645 Level-0 table #584: started
+2021/07/12-23:01:34.708 645 Level-0 table #584: 36826 bytes OK
+2021/07/12-23:01:34.710 645 Delete type=0 #580
+2021/07/12-23:06:34.704 645 Level-0 table #586: started
+2021/07/12-23:06:34.709 645 Level-0 table #586: 27744 bytes OK
+2021/07/12-23:06:34.712 645 Delete type=0 #583
+2021/07/12-23:21:37.067 645 Level-0 table #588: started
+2021/07/12-23:21:37.069 645 Level-0 table #588: 25472 bytes OK
+2021/07/12-23:21:37.071 645 Delete type=0 #585
+2021/07/12-23:21:37.071 645 Compacting 4@0 + 1@1 files
+2021/07/12-23:21:37.074 645 Generated table #589@0: 119 keys, 41273 bytes
+2021/07/12-23:21:37.074 645 Compacted 4@0 + 1@1 files => 41273 bytes
+2021/07/12-23:21:37.075 645 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/07/12-23:21:37.075 645 Delete type=2 #586
+2021/07/12-23:21:37.075 645 Delete type=2 #579
+2021/07/12-23:21:37.075 645 Delete type=2 #581
+2021/07/12-23:21:37.075 645 Delete type=2 #588
+2021/07/12-23:21:37.075 645 Delete type=2 #584

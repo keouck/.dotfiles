@@ -1,0 +1,6 @@
+2021/07/08-08:56:36.763 e04 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.tripadvisor.in_0.indexeddb.leveldb since it was missing.
+2021/07/08-08:56:36.767 e04 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.tripadvisor.in_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-08:57:13.909 ddc Level-0 table #5: started
+2021/07/08-08:57:13.910 ddc Level-0 table #5: 1264 bytes OK
+2021/07/08-08:57:13.912 ddc Delete type=0 #3
+2021/07/08-08:57:13.912 ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

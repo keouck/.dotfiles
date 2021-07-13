@@ -1,0 +1,45 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage
+
+[Compositing]
+GLCore=true
+GLTextureFilter=0
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=22979837-d6c7-4b31-82fa-7b07e427ea64
+Number=1
+Rows=1
+
+[ModifierOnlyShortcuts]
+Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
+
+[MouseBindings]
+CommandAll1=Increase Opacity
+CommandAll2=Increase Opacity
+CommandAll3=Increase Opacity
+CommandAllKey=Alt
+CommandAllWheel=Change Opacity
+CommandWindowWheel=Activate, raise and scroll
+
+[Plugins]
+invertEnabled=true
+kwin4_effect_fadedesktopEnabled=true
+kwin4_effect_squashEnabled=false
+magiclampEnabled=true
+mouseclickEnabled=true
+resizeEnabled=true
+sheetEnabled=true
+showpaintEnabled=true
+slideEnabled=false
+slidebackEnabled=true
+snaphelperEnabled=true
+trackmouseEnabled=true
+wobblywindowsEnabled=true
+
+[TabBox]
+LayoutName=big_icons
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Ant-Dark

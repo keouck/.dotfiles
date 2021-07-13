@@ -1,0 +1,6 @@
+2021/07/05-16:00:42.880 48cf Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb since it was missing.
+2021/07/05-16:00:42.885 48cf Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-16:19:30.255 4bb5 Level-0 table #5: started
+2021/07/05-16:19:30.262 4bb5 Level-0 table #5: 25156 bytes OK
+2021/07/05-16:19:30.265 4bb5 Delete type=0 #3
+2021/07/05-16:19:30.266 4bb5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

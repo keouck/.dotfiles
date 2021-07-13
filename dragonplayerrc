@@ -1,0 +1,40 @@
+[General]
+Recent Urls[$e]=file:$HOME/Downloads/ela51i9xm6671.mp4,file:$HOME/Downloads/2021-06-28_18-10-00.mkv,file:$HOME/output.ogg
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+HDMI1 Height 1920x1080=583
+HDMI1 Width 1920x1080=651
+HDMI1 XPosition 1920x1080=1068
+HDMI1 YPosition 1920x1080=108
+State=AAAA/wAAAAD9AAAAAAAAAosAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[file:///home/anon/Downloads/2021-06-28_18-10-00.mkv]
+Brightness=0
+Contrast=0
+Date=2021,6,27
+Hue=0
+IsVideo=true
+Preferred Size=1920,953
+Saturation=0
+Subtitle=0
+
+[file:///home/anon/Downloads/ela51i9xm6671.mp4]
+Brightness=0
+Contrast=0
+Date=2021,6,19
+Hue=0
+IsVideo=false
+Preferred Size=651,438
+Saturation=0
+
+[file:///home/anon/output.ogg]
+Brightness=0
+Contrast=0
+Date=2021,7,6
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0

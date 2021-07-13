@@ -1,0 +1,13 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Copilot Theme",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    }
+}

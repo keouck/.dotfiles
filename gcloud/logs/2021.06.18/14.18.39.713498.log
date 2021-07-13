@@ -1,0 +1,12 @@
+2021-06-18 14:18:39,714 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2021-06-18 14:18:39,717 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application_default']
+2021-06-18 14:18:39,833 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'application-default', 'print_access_token']
+2021-06-18 14:18:39,837 DEBUG    root            Running [gcloud.auth.application-default.print-access-token] with arguments: []
+2021-06-18 14:18:39,837 DEBUG    google.auth._default Checking /home/anon/Documents/yakko/website-288016-f49feddf07a4.json for explicit credentials as part of auth process...
+2021-06-18 14:18:44,965 DEBUG    google.auth.transport.requests Making request: POST https://oauth2.googleapis.com/token
+2021-06-18 14:18:44,968 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2021-06-18 14:18:45,218 DEBUG    urllib3.connectionpool https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2021-06-18 14:18:45,222 INFO     root            Display format: "value(token)"
+2021-06-18 14:18:45,224 INFO     ___FILE_ONLY___ ya29.c.Kp8BBAjpD5g54xaPqPtSxOloNg3R2gazxjESXpqHRJ2nwrNV8lksCyAvw2X0zaRg5kKPtmWNmT49L77bByBba789vnWHbzCmbHvEEgumBfSj0YFemg1QW-IhPGQTiu4yUu4aM0OJDLUmLbMi4ApgrIAKWHw8T5vuRBM6ekfjYWrFS2wHmFmXzty-97jlWsmibbNNvQBqUXr9UaPR2ROUiLNM
+
+2021-06-18 14:18:45,226 DEBUG    root            SDK update checks are disabled.

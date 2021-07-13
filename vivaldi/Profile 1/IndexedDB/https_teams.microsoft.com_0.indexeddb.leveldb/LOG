@@ -1,0 +1,14 @@
+2021/07/13-10:23:59.090 5c52 Reusing MANIFEST /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/13-10:23:59.091 5c52 Recovering log #27
+2021/07/13-10:23:59.126 5c52 Reusing old log /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000027.log 
+2021/07/13-10:24:04.762 5a93 Level-0 table #33: started
+2021/07/13-10:24:04.833 5a93 Level-0 table #33: 1557800 bytes OK
+2021/07/13-10:24:04.839 5a93 Delete type=0 #27
+2021/07/13-10:24:31.010 5b82 Compacting 1@1 + 2@2 files
+2021/07/13-10:24:31.098 5b82 Generated table #34@1: 7627 keys, 2167682 bytes
+2021/07/13-10:24:31.112 5b82 Generated table #35@1: 1975 keys, 293653 bytes
+2021/07/13-10:24:31.112 5b82 Compacted 1@1 + 2@2 files => 2461335 bytes
+2021/07/13-10:24:31.117 5b82 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/07/13-10:24:31.117 5b82 Delete type=2 #33
+2021/07/13-10:24:31.117 5b82 Delete type=2 #29
+2021/07/13-10:24:31.117 5b82 Delete type=2 #30

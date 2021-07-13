@@ -1,0 +1,6 @@
+2021/07/09-08:56:28.977 56dc Creating DB /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_cppsecrets.com_0.indexeddb.leveldb since it was missing.
+2021/07/09-08:56:28.981 56dc Reusing MANIFEST /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_cppsecrets.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-09:00:53.830 585b Level-0 table #5: started
+2021/07/09-09:00:53.831 585b Level-0 table #5: 1148 bytes OK
+2021/07/09-09:00:53.833 585b Delete type=0 #3
+2021/07/09-09:00:53.833 585b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

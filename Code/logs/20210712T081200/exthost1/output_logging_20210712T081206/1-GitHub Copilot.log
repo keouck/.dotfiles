@@ -1,0 +1,9 @@
+[INFO] [ghostText] [2021-07-12T02:54:34.356Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2021-07-12T02:54:34.361Z] Cancelled after extractPrompt
+[INFO] [default] [2021-07-12T02:54:34.381Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [ghostText] [2021-07-12T02:54:34.404Z] Cancelled after extractPrompt
+[INFO] [default] [2021-07-12T02:54:37.223Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T02:54:39.377Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 2152 ms
+[INFO] [streamChoices] [2021-07-12T02:54:39.386Z] solution 0: [if __name__ == "__main__":] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KgNa8ZI9Kn1xyOEq4AFYp21LHZ4t}] created: [{1626058478}]
+[INFO] [streamChoices] [2021-07-12T02:54:39.398Z] solution 1: [if __name__ == "__main__":] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KgNa8ZI9Kn1xyOEq4AFYp21LHZ4t}] created: [{1626058478}]
+[INFO] [streamChoices] [2021-07-12T02:54:39.399Z] solution 2: [if __name__ == "__main__":] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KgNa8ZI9Kn1xyOEq4AFYp21LHZ4t}] created: [{1626058478}]

@@ -1,0 +1,7 @@
+[2021-06-27 11:18:07.360] [sharedprocess] [info] Installing extension: robbowen.synthwave-vscode
+[2021-06-27 11:18:09.099] [sharedprocess] [info] Downloaded extension: robbowen.synthwave-vscode /home/anon/.config/Code - OSS/CachedExtensionVSIXs/robbowen.synthwave-vscode-0.1.8
+[2021-06-27 11:18:09.555] [sharedprocess] [info] Extracted extension to /home/anon/.vscode-oss/extensions/.12874ff8-4dfc-4ec6-93b5-467282b4adae: robbowen.synthwave-vscode
+[2021-06-27 11:18:09.564] [sharedprocess] [info] Renamed to /home/anon/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8
+[2021-06-27 11:18:09.568] [sharedprocess] [info] Installation completed. robbowen.synthwave-vscode
+[2021-06-27 11:18:09.573] [sharedprocess] [info] Extensions installed successfully: robbowen.synthwave-vscode
+[2021-06-27 11:18:17.435] [sharedprocess] [info] Starting to clean up unused language packs.

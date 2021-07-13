@@ -1,0 +1,6 @@
+2021/07/06-16:40:43.217 8ab5 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_carbon.now.sh_0.indexeddb.leveldb since it was missing.
+2021/07/06-16:40:43.221 8ab5 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_carbon.now.sh_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-16:55:51.914 8de3 Level-0 table #5: started
+2021/07/06-16:55:51.916 8de3 Level-0 table #5: 1146 bytes OK
+2021/07/06-16:55:51.918 8de3 Delete type=0 #3
+2021/07/06-16:55:51.918 8de3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

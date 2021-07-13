@@ -1,0 +1,15 @@
+2021/06/27-22:20:01.567 61f3 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/27-22:20:01.568 61f3 Recovering log #18
+2021/06/27-22:20:01.629 61f3 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/000018.log 
+2021/06/27-22:21:01.636 61f3 Level-0 table #23: started
+2021/06/27-22:21:01.650 61f3 Level-0 table #23: 904885 bytes OK
+2021/06/27-22:21:01.653 61f3 Delete type=0 #18
+2021/06/27-22:21:01.654 61f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/27-22:21:01.654 61f3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x06\x02\x01\x09\x00g\x00r\x00o\x00u\x00p\x00i\x00n\x00f\x00o' @ 107910 : 1
+2021/06/27-22:21:01.654 61f3 Compacting 1@1 + 1@2 files
+2021/06/27-22:21:01.672 61f3 Generated table #24@1: 6030 keys, 435755 bytes
+2021/06/27-22:21:01.672 61f3 Compacted 1@1 + 1@2 files => 435755 bytes
+2021/06/27-22:21:01.673 61f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/27-22:21:01.673 61f3 Delete type=2 #23
+2021/06/27-22:21:01.673 61f3 Delete type=2 #20
+2021/06/27-22:21:01.674 61f3 Manual compaction at level-1 from '\x00\x01\x06\x02\x01\x09\x00g\x00r\x00o\x00u\x00p\x00i\x00n\x00f\x00o' @ 107910 : 1 .. (end); will stop at (end)

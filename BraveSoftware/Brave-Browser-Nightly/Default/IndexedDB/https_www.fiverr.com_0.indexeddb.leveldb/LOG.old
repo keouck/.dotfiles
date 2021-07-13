@@ -1,0 +1,25 @@
+2021/07/07-10:30:45.199 25d4 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-10:30:45.199 25d4 Recovering log #362
+2021/07/07-10:30:45.199 25d4 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/000362.log 
+2021/07/07-10:30:45.199 25d4 Delete type=2 #360
+2021/07/07-10:30:49.885 2c1b Level-0 table #367: started
+2021/07/07-10:30:49.886 2c1b Level-0 table #367: 697 bytes OK
+2021/07/07-10:30:49.888 2c1b Delete type=0 #362
+2021/07/07-10:30:49.888 2c1b Manual compaction at level-0 from '\x00m\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at '\x00n\x00\x00\x05' @ 2196 : 1
+2021/07/07-10:30:49.888 2c1b Compacting 1@0 + 1@1 files
+2021/07/07-10:30:49.889 2c1b Generated table #368@0: 75 keys, 1294 bytes
+2021/07/07-10:30:49.889 2c1b Compacted 1@0 + 1@1 files => 1294 bytes
+2021/07/07-10:30:49.891 2c1b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/07-10:30:49.892 2c1b Delete type=2 #367
+2021/07/07-10:30:49.893 2c1b Manual compaction at level-0 from '\x00n\x00\x00\x05' @ 2196 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-10:30:49.894 2c1b Level-0 table #370: started
+2021/07/07-10:30:49.896 2c1b Level-0 table #370: 477 bytes OK
+2021/07/07-10:30:49.897 2c1b Delete type=2 #364
+2021/07/07-10:30:49.897 2c1b Delete type=0 #366
+2021/07/07-10:30:49.897 2c1b Manual compaction at level-0 from '\x00n\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at '\x00n\x00\x00\x05' @ 2223 : 0
+2021/07/07-10:30:49.897 2c1b Compacting 1@0 + 1@1 files
+2021/07/07-10:30:49.898 2c1b Generated table #371@0: 72 keys, 1238 bytes
+2021/07/07-10:30:49.898 2c1b Compacted 1@0 + 1@1 files => 1238 bytes
+2021/07/07-10:30:49.899 2c1b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/07-10:30:49.900 2c1b Delete type=2 #370
+2021/07/07-10:30:49.900 2c1b Manual compaction at level-0 from '\x00n\x00\x00\x05' @ 2223 : 0 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at (end)

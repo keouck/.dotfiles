@@ -1,0 +1,6 @@
+2021/07/12-13:24:24.072 5230 Creating DB /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_core.arc.io_0.indexeddb.leveldb since it was missing.
+2021/07/12-13:24:24.077 5230 Reusing MANIFEST /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_core.arc.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/12-13:24:48.137 5479 Level-0 table #5: started
+2021/07/12-13:24:48.139 5479 Level-0 table #5: 2517 bytes OK
+2021/07/12-13:24:48.140 5479 Delete type=0 #3
+2021/07/12-13:24:48.141 5479 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,43 @@
+[KDiskFree]
+Device=100
+Free=80
+Full%=50
+HeaderSectionIndices=0,1,2,3,4,5,6,7
+Icon=49
+MountPoint=120
+Size=80
+SortColumn=0
+SortOrder=0
+Type=80
+UsageBar=200
+
+[KFileDialog Settings]
+Recent Files[$e]=autostart.sh,file:$HOME/bin/autostart.sh
+Recent URLs[$e]=file:$HOME/bin/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI1 Height 1680x1050=700
+HDMI1 Height 1920x1080=700
+HDMI1 Width 1680x1050=1022
+HDMI1 Width 1920x1080=1022
+HDMI1 Window-Maximized 1280x1024=true
+HDMI1 XPosition 1920x1080=500
+HDMI1 YPosition 1920x1080=166
+HDMI1 eDP1 Height 1920x1080=700
+HDMI1 eDP1 Width 1920x1080=1022
+HDMI1 eDP1 XPosition 1920x1080=506
+HDMI1 eDP1 YPosition 1920x1080=161
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/4AAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 HDMI1 Window-Maximized 1366x768=true
+eDP1 Height 1366x768=655
+eDP1 Width 1366x768=1020
+eDP1 Window-Maximized 1366x768=true
+eDP1 XPosition 1366x768=0
+eDP1 YPosition 1366x768=29
+
+[Open-with settings]
+CompletionMode=1
+History=tut,~/bin/autostart.sh

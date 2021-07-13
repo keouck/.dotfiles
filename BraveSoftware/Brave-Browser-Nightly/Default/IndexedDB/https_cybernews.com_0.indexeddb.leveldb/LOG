@@ -1,0 +1,6 @@
+2021/06/17-15:06:00.628 6fa0 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_cybernews.com_0.indexeddb.leveldb since it was missing.
+2021/06/17-15:06:00.634 6fa0 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_cybernews.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/17-15:06:06.825 705f Level-0 table #5: started
+2021/06/17-15:06:06.826 705f Level-0 table #5: 560 bytes OK
+2021/06/17-15:06:06.827 705f Delete type=0 #3
+2021/06/17-15:06:06.827 705f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

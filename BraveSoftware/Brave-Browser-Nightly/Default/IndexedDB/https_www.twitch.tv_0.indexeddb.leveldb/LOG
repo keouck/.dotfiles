@@ -1,0 +1,15 @@
+2021/07/06-20:23:10.469 c5f4 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-20:23:10.469 c5f4 Recovering log #4
+2021/07/06-20:23:10.470 c5f4 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000004.log 
+2021/07/06-20:23:17.841 c5f4 Level-0 table #8: started
+2021/07/06-20:23:17.845 c5f4 Level-0 table #8: 209 bytes OK
+2021/07/06-20:23:17.849 c5f4 Delete type=0 #4
+2021/07/06-20:23:17.849 c5f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/06-20:23:17.850 c5f4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 47 : 1
+2021/07/06-20:23:17.850 c5f4 Compacting 1@1 + 1@2 files
+2021/07/06-20:23:17.853 c5f4 Generated table #9@1: 19 keys, 518 bytes
+2021/07/06-20:23:17.853 c5f4 Compacted 1@1 + 1@2 files => 518 bytes
+2021/07/06-20:23:17.855 c5f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/06-20:23:17.857 c5f4 Delete type=2 #5
+2021/07/06-20:23:17.857 c5f4 Delete type=2 #8
+2021/07/06-20:23:17.863 c5f4 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 47 : 1 .. (end); will stop at (end)

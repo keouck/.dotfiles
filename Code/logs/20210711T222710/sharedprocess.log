@@ -1,0 +1,11 @@
+[2021-07-11 22:27:23.637] [sharedprocess] [info] Installing extension: tamasfe.even-better-toml
+[2021-07-11 22:27:26.359] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-11 22:27:26.448] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210708T003110'
+[2021-07-11 22:27:31.572] [sharedprocess] [info] Downloaded extension: tamasfe.even-better-toml /home/anon/.config/Code/CachedExtensionVSIXs/tamasfe.even-better-toml-0.14.1
+[2021-07-11 22:27:32.209] [sharedprocess] [info] Extracted extension to /home/anon/.vscode/extensions/.93836e62-85bf-4675-b8a7-54ce2da50cfe: tamasfe.even-better-toml
+[2021-07-11 22:27:32.218] [sharedprocess] [info] Renamed to /home/anon/.vscode/extensions/tamasfe.even-better-toml-0.14.1
+[2021-07-11 22:27:32.227] [sharedprocess] [info] Installation completed. tamasfe.even-better-toml
+[2021-07-11 22:27:32.243] [sharedprocess] [info] Extensions installed successfully: tamasfe.even-better-toml
+[2021-07-11 22:27:46.298] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-11 22:27:46.299] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-11 22:27:56.288] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

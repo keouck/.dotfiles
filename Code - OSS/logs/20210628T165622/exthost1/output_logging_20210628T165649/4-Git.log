@@ -1,0 +1,50 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/anon/Documents/House-price-prediction
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :website/app.py
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/app.py
+> git cat-file -s 6fb834a10148b4ead589f385b0f7f870efca985a
+> git show --textconv :website/templates/predict.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/predict.html
+> git cat-file -s f1972dafdd0c4fe24128ccacbc241bfc1e447edc
+> git show --textconv :website/templates/index.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/index.html
+> git cat-file -s a0ec9235e99bf638c8f208cd9ae3377278829ae6
+> git show --textconv :website/templates/privacy-policy.html
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/templates/privacy-policy.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :website/app.py
+> git ls-files --stage -- /home/anon/Documents/House-price-prediction/website/app.py
+> git cat-file -s 6fb834a10148b4ead589f385b0f7f870efca985a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

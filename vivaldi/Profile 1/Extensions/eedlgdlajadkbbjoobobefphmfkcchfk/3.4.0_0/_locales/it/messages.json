@@ -1,0 +1,154 @@
+{
+   "bookmark_notice": {
+      "description": "",
+      "message": "Non trovi i Preferiti nel tuo browser? Assicurati che l'opzione \u003Cstrong>Mostra barra dei Preferiti\u003C/strong> che trovi nelle Impostazioni di Chrome sia attiva."
+   },
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Search"
+   },
+   "common_header_menu_about": {
+      "description": "",
+      "message": "Chi siamo"
+   },
+   "common_header_menu_blog": {
+      "description": "",
+      "message": "Blog"
+   },
+   "common_header_menu_default": {
+      "description": "",
+      "message": "Imposta come predefinito"
+   },
+   "common_header_menu_faq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "common_header_menu_giftingtrees": {
+      "description": "",
+      "message": "Regala alberi"
+   },
+   "common_header_menu_how": {
+      "description": "",
+      "message": "Come funziona Ecosia"
+   },
+   "common_header_menu_jobs": {
+      "description": "",
+      "message": "Lavora con noi"
+   },
+   "common_header_menu_mobileapp": {
+      "description": "",
+      "message": "App "
+   },
+   "common_header_menu_new": {
+      "description": "",
+      "message": "Novità"
+   },
+   "common_header_menu_news_mobile": {
+      "description": "",
+      "message": "News"
+   },
+   "common_header_menu_privacy": {
+      "description": "",
+      "message": "Privacy"
+   },
+   "common_header_menu_settings": {
+      "description": "",
+      "message": "Impostazioni"
+   },
+   "common_header_menu_shop": {
+      "description": "",
+      "message": "Shop"
+   },
+   "common_header_menu_titletag": {
+      "description": "",
+      "message": "Menu"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Cerca il testo selezionato con Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Per saperne di più"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Non è la pagina che volevi? Scopri come ripristinare i segnalibro e impostare la tua pagina Nuova scheda."
+   },
+   "new_tab_page_or": {
+      "description": "",
+      "message": "o"
+   },
+   "new_tab_page_removed": {
+      "description": "",
+      "message": "Pagina rimossa"
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Ripristina tutto"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Anteprima eliminata"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nuova scheda"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Annulla"
+   },
+   "pop_up_greenleaf": {
+      "description": "",
+      "message": "Questa società sta facendo scelte sostenibili."
+   },
+   "pop_up_greenleaf_ecosia": {
+      "description": "",
+      "message": "Ecosia ti guida verso scelte più ecologiche e sostenibili."
+   },
+   "pop_up_greenleaf_ecosia_org": {
+      "description": "",
+      "message": "ecosia.org"
+   },
+   "pop_up_greenleaf_go_to": {
+      "description": "",
+      "message": "Vai a"
+   },
+   "pop_up_greenleaf_learnmore": {
+      "description": "",
+      "message": "Per saperne di più"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Cerca in modo da contribuire a piantare alberi..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Questa estensione imposta Ecosia come motore di ricerca, così potrai piantare alberi a ogni ricerca."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Questa estensione imposta Ecosia come motore di ricerca e personalizza la nuova scheda, così puoi piantare alberi a ogni ricerca."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Questa estensione reindirizza le tue ricerche dalla omnibar verso Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - Il motore di ricerca che pianta alberi"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   },
+   "totalcounter_body": {
+      "description": "",
+      "message": "Alberi piantati dagli utenti di Ecosia"
+   },
+   "treecounter_description": {
+      "description": "",
+      "message": "Alberi piantati dagli utenti di Ecosia"
+   }
+}

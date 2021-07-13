@@ -1,0 +1,6 @@
+2021/06/26-08:41:22.452 836 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_groww.in_0.indexeddb.leveldb since it was missing.
+2021/06/26-08:41:22.456 836 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_groww.in_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/26-09:20:50.374 fa2 Level-0 table #5: started
+2021/06/26-09:20:50.376 fa2 Level-0 table #5: 1131 bytes OK
+2021/06/26-09:20:50.378 fa2 Delete type=0 #3
+2021/06/26-09:20:50.378 fa2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

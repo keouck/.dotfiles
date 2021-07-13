@@ -1,0 +1,6 @@
+2021/06/17-14:43:40.672 6ac7 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.bybit.com_0.indexeddb.leveldb since it was missing.
+2021/06/17-14:43:40.688 6ac7 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.bybit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/17-14:43:56.363 64d0 Level-0 table #5: started
+2021/06/17-14:43:56.365 64d0 Level-0 table #5: 3962 bytes OK
+2021/06/17-14:43:56.366 64d0 Delete type=0 #3
+2021/06/17-14:43:56.366 64d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

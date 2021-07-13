@@ -1,0 +1,6 @@
+2021/07/07-09:39:39.889 1d39 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_community.fiverr.com_0.indexeddb.leveldb since it was missing.
+2021/07/07-09:39:39.895 1d39 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_community.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-09:40:11.905 1d39 Level-0 table #5: started
+2021/07/07-09:40:11.908 1d39 Level-0 table #5: 1350 bytes OK
+2021/07/07-09:40:11.911 1d39 Delete type=0 #3
+2021/07/07-09:40:11.911 1d39 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/07/10-11:57:49.564 1ce5 Creating DB /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/07/10-11:57:49.568 1ce5 Reusing MANIFEST /home/anon/.config/vivaldi/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/10-12:10:44.501 1fd6 Level-0 table #5: started
+2021/07/10-12:10:44.508 1fd6 Level-0 table #5: 2500 bytes OK
+2021/07/10-12:10:44.512 1fd6 Delete type=0 #3
+2021/07/10-12:10:44.512 1fd6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

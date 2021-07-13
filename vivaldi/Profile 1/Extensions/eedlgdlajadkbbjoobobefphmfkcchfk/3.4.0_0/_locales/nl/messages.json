@@ -1,0 +1,154 @@
+{
+   "bookmark_notice": {
+      "description": "",
+      "message": "Kan je de bladwijzers niet vinden in je browser? Zorg ervoor dat de optie \u003Cstrong>Bladwijzerbalk altijd tonen\u003C/strong> is aangevinkt bij je Chrome-instellingen."
+   },
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Zoeken"
+   },
+   "common_header_menu_about": {
+      "description": "",
+      "message": "Over ons"
+   },
+   "common_header_menu_blog": {
+      "description": "",
+      "message": "Blog"
+   },
+   "common_header_menu_default": {
+      "description": "",
+      "message": "Instellen als standaard"
+   },
+   "common_header_menu_faq": {
+      "description": "",
+      "message": "Veelgestelde vragen"
+   },
+   "common_header_menu_giftingtrees": {
+      "description": "",
+      "message": "Geef een boom cadeau"
+   },
+   "common_header_menu_how": {
+      "description": "",
+      "message": "Hoe Ecosia werkt"
+   },
+   "common_header_menu_jobs": {
+      "description": "",
+      "message": "Vacatures"
+   },
+   "common_header_menu_mobileapp": {
+      "description": "",
+      "message": "Mobiele app"
+   },
+   "common_header_menu_new": {
+      "description": "",
+      "message": "Nieuw"
+   },
+   "common_header_menu_news_mobile": {
+      "description": "",
+      "message": "Nieuws"
+   },
+   "common_header_menu_privacy": {
+      "description": "",
+      "message": "Privacy"
+   },
+   "common_header_menu_settings": {
+      "description": "",
+      "message": "Instellingen"
+   },
+   "common_header_menu_shop": {
+      "description": "",
+      "message": "Winkel"
+   },
+   "common_header_menu_titletag": {
+      "description": "",
+      "message": "Menu"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Zoek selectie met Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Lees meer"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Niet de pagina die je verwachtte? Meer informatie over hoe je je bladwijzers herstelt en hoe je je Nieuw Tabblad pagina instelt."
+   },
+   "new_tab_page_or": {
+      "description": "",
+      "message": "of"
+   },
+   "new_tab_page_removed": {
+      "description": "",
+      "message": "Pagina verwijderd"
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Alles herstellen"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail verwijderd"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nieuwe tab"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Ongedaan maken"
+   },
+   "pop_up_greenleaf": {
+      "description": "",
+      "message": "Deze organisatie maakt duurzame keuzes."
+   },
+   "pop_up_greenleaf_ecosia": {
+      "description": "",
+      "message": "Ecosia helpt je groenere en duurzamere keuzes te maken."
+   },
+   "pop_up_greenleaf_ecosia_org": {
+      "description": "",
+      "message": "ecosia.org"
+   },
+   "pop_up_greenleaf_go_to": {
+      "description": "",
+      "message": "Ga naar"
+   },
+   "pop_up_greenleaf_learnmore": {
+      "description": "",
+      "message": "Lees meer"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Doorzoek het web en plant bomen..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Deze extensie stelt Ecosia als je standaard zoekmachine in zodat je met elke zoekopdracht bomen plant."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Deze extensie stelt Ecosia als je standaard zoekmachine in en past je nieuwe tabs-pagina aan zodat je met elke zoekopdracht bomen plant."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Deze extensie stuurt je zoekopdrachten  van de omnibar naar Ecosia Zoeken door"
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - de zoekmachine die bomen plant"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   },
+   "totalcounter_body": {
+      "description": "",
+      "message": "Bomen geplant door Ecosia-gebruikers"
+   },
+   "treecounter_description": {
+      "description": "",
+      "message": "Bomen geplant door Ecosia-gebruikers"
+   }
+}

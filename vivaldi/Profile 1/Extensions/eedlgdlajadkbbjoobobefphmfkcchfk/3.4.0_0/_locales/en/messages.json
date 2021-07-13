@@ -1,0 +1,154 @@
+{
+   "bookmark_notice": {
+      "description": "",
+      "message": "Missing your browser's bookmarks? Make sure the option \u003Cstrong>Always Show Bookmarks Bar\u003C/strong> is selected in your Chrome Settings."
+   },
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Search"
+   },
+   "common_header_menu_about": {
+      "description": "",
+      "message": "About us"
+   },
+   "common_header_menu_blog": {
+      "description": "",
+      "message": "Blog"
+   },
+   "common_header_menu_default": {
+      "description": "",
+      "message": "Make default search"
+   },
+   "common_header_menu_faq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "common_header_menu_giftingtrees": {
+      "description": "",
+      "message": "Gift trees"
+   },
+   "common_header_menu_how": {
+      "description": "",
+      "message": "How Ecosia works"
+   },
+   "common_header_menu_jobs": {
+      "description": "",
+      "message": "Jobs"
+   },
+   "common_header_menu_mobileapp": {
+      "description": "",
+      "message": "Mobile app"
+   },
+   "common_header_menu_new": {
+      "description": "",
+      "message": "New"
+   },
+   "common_header_menu_news_mobile": {
+      "description": "",
+      "message": "News"
+   },
+   "common_header_menu_privacy": {
+      "description": "",
+      "message": "Privacy"
+   },
+   "common_header_menu_settings": {
+      "description": "",
+      "message": "Settings"
+   },
+   "common_header_menu_shop": {
+      "description": "",
+      "message": "Shop"
+   },
+   "common_header_menu_titletag": {
+      "description": "",
+      "message": "Menu"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Search selection with Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Learn more"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Not the page you expected? Learn more about how to restore Bookmarks and set your New Tab page."
+   },
+   "new_tab_page_or": {
+      "description": "",
+      "message": "or"
+   },
+   "new_tab_page_removed": {
+      "description": "",
+      "message": "Page removed"
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Restore all"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail removed"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "New Tab"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Undo"
+   },
+   "pop_up_greenleaf": {
+      "description": "",
+      "message": "This organization is making sustainable choices."
+   },
+   "pop_up_greenleaf_ecosia": {
+      "description": "",
+      "message": "Ecosia guides you to make greener and more sustainable choices."
+   },
+   "pop_up_greenleaf_ecosia_org": {
+      "description": "",
+      "message": "ecosia.org"
+   },
+   "pop_up_greenleaf_go_to": {
+      "description": "",
+      "message": "Go to"
+   },
+   "pop_up_greenleaf_learnmore": {
+      "description": "",
+      "message": "Learn more"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Search the web to plant trees..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "This extension sets your search engine to Ecosia so you can plant trees with every search."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "This extension sets your search engine to Ecosia and customizes your new tab page so you can plant trees with every search."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "This extension redirects your searches from the omnibar to Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - The search engine that plants trees"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   },
+   "totalcounter_body": {
+      "description": "",
+      "message": "Trees planted by Ecosia users"
+   },
+   "treecounter_description": {
+      "description": "",
+      "message": "Trees planted by Ecosia users"
+   }
+}

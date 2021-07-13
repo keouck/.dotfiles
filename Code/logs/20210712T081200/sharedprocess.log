@@ -1,0 +1,19 @@
+[2021-07-12 08:12:04.412] [sharedprocess] [info] Deleted from disk tamasfe.even-better-toml /home/anon/.vscode/extensions/tamasfe.even-better-toml-0.14.0
+[2021-07-12 08:12:13.833] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-12 08:12:13.837] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210708T194057'
+[2021-07-12 08:12:33.819] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-12 08:12:33.821] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-12 08:12:43.817] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-12 08:28:32.033] [sharedprocess] [info] Uninstalling extension: github.copilot
+[2021-07-12 08:28:32.072] [sharedprocess] [info] Successfully uninstalled extension: github.copilot
+[2021-07-12 08:28:32.396] [sharedprocess] [info] Detected extension removed from another source github.copilot
+[2021-07-12 08:28:36.662] [sharedprocess] [info] Installing extension: github.copilot
+[2021-07-12 08:28:37.019] [sharedprocess] [info] Downloaded extension: github.copilot /home/anon/.config/Code/CachedExtensionVSIXs/github.copilot-1.1.1959
+[2021-07-12 08:28:37.148] [sharedprocess] [info] Removed the extension from uninstalled list: github.copilot
+[2021-07-12 08:28:37.158] [sharedprocess] [info] Extensions installed successfully: github.copilot
+[2021-07-12 08:28:43.308] [sharedprocess] [info] Installing extension: benjaminbenais.copilot-theme
+[2021-07-12 08:28:53.078] [sharedprocess] [info] Downloaded extension: benjaminbenais.copilot-theme /home/anon/.config/Code/CachedExtensionVSIXs/benjaminbenais.copilot-theme-0.0.7
+[2021-07-12 08:28:53.419] [sharedprocess] [info] Extracted extension to /home/anon/.vscode/extensions/.64d266bc-d776-408b-903d-be8beda9b2d1: benjaminbenais.copilot-theme
+[2021-07-12 08:28:53.426] [sharedprocess] [info] Renamed to /home/anon/.vscode/extensions/benjaminbenais.copilot-theme-0.0.7
+[2021-07-12 08:28:53.427] [sharedprocess] [info] Installation completed. benjaminbenais.copilot-theme
+[2021-07-12 08:28:53.430] [sharedprocess] [info] Extensions installed successfully: benjaminbenais.copilot-theme

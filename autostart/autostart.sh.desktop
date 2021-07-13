@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=~/bin/autostart.sh
+Icon=
+Name=autostart.sh
+Path=
+Terminal=True
+Type=Application

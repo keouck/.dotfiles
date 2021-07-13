@@ -1,0 +1,52 @@
+[INFO] [default] [2021-07-12T07:37:44.812Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [ghostText] [2021-07-12T07:37:44.822Z] Cancelled after extractPrompt
+[INFO] [default] [2021-07-12T07:37:47.238Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:37:51.870Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 4619 ms
+[INFO] [streamChoices] [2021-07-12T07:37:51.888Z] solution 2: [))] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KknfET7kXPu0hsySJ6KzEFiUQd38}] created: [{1626075471}]
+[INFO] [streamChoices] [2021-07-12T07:37:51.907Z] solution 1: [))] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KknfET7kXPu0hsySJ6KzEFiUQd38}] created: [{1626075471}]
+[INFO] [streamChoices] [2021-07-12T07:37:51.909Z] solution 0: [))] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KknfET7kXPu0hsySJ6KzEFiUQd38}] created: [{1626075471}]
+[INFO] [default] [2021-07-12T07:38:53.454Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:38:53.855Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:38:55.884Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:38:56.294Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 390 ms
+[INFO] [streamChoices] [2021-07-12T07:38:56.337Z] solution 2: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkoiNIgVWcZAGPBF7Wn9uNaP1Mg5}] created: [{1626075536}]
+[INFO] [streamChoices] [2021-07-12T07:38:56.364Z] solution 0: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkoiNIgVWcZAGPBF7Wn9uNaP1Mg5}] created: [{1626075536}]
+[INFO] [streamChoices] [2021-07-12T07:38:56.368Z] solution 1: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkoiNIgVWcZAGPBF7Wn9uNaP1Mg5}] created: [{1626075536}]
+[INFO] [default] [2021-07-12T07:38:57.773Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:38:58.594Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 820 ms
+[INFO] [streamChoices] [2021-07-12T07:38:58.601Z] solution 0: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkojTJDgSAfEE0SITiiJsDflWr29}] created: [{1626075537}]
+[INFO] [streamChoices] [2021-07-12T07:38:58.603Z] solution 1: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkojTJDgSAfEE0SITiiJsDflWr29}] created: [{1626075537}]
+[INFO] [streamChoices] [2021-07-12T07:38:58.604Z] solution 2: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkojTJDgSAfEE0SITiiJsDflWr29}] created: [{1626075537}]
+[INFO] [default] [2021-07-12T07:39:26.309Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:39:26.986Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:39:28.855Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:39:29.505Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 650 ms
+[INFO] [streamChoices] [2021-07-12T07:39:29.512Z] solution 0: [append(data)] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkpFF8zRXU77uSaGyHulHyhzwN55}] created: [{1626075569}]
+[INFO] [streamChoices] [2021-07-12T07:39:29.519Z] solution 2: [append(data)] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkpFF8zRXU77uSaGyHulHyhzwN55}] created: [{1626075569}]
+[INFO] [streamChoices] [2021-07-12T07:39:29.520Z] solution 1: [append(data)] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkpFF8zRXU77uSaGyHulHyhzwN55}] created: [{1626075569}]
+[DEBUG] [post-insertion] [2021-07-12T07:39:31.559Z] ghostText.accepted choiceIndex: 0
+[DEBUG] [post-insertion] [2021-07-12T07:40:01.564Z] stillInCode: Found! Completion 'append(data)' in file /home/anon/Documents/terminal-anime-viewer/test.py. lexEditDistance fraction was 0. Char edit distance was 0. Inserted at 259 but found at 273. choiceIndex: 0
+[INFO] [ghostText] [2021-07-12T07:40:06.684Z] Cancelled after extractPrompt
+[INFO] [default] [2021-07-12T07:41:51.493Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:41:52.660Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 1166 ms
+[INFO] [streamChoices] [2021-07-12T07:41:52.668Z] solution 1: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrYvS3rIRaH2MMWSI9XIiywpRBm}] created: [{1626075712}]
+[INFO] [streamChoices] [2021-07-12T07:41:52.671Z] solution 2: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrYvS3rIRaH2MMWSI9XIiywpRBm}] created: [{1626075712}]
+[INFO] [streamChoices] [2021-07-12T07:41:52.674Z] solution 0: [] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrYvS3rIRaH2MMWSI9XIiywpRBm}] created: [{1626075712}]
+[INFO] [default] [2021-07-12T07:42:08.007Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:08.077Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:08.672Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:09.689Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:09.873Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:10.708Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 834 ms
+[INFO] [streamChoices] [2021-07-12T07:42:10.726Z] solution 2: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrqlXBX6344cjkvXKlUqA3EyNsz}] created: [{1626075730}]
+[INFO] [streamChoices] [2021-07-12T07:42:10.736Z] solution 0: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrqlXBX6344cjkvXKlUqA3EyNsz}] created: [{1626075730}]
+[INFO] [streamChoices] [2021-07-12T07:42:10.739Z] solution 1: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrqlXBX6344cjkvXKlUqA3EyNsz}] created: [{1626075730}]
+[INFO] [default] [2021-07-12T07:42:11.824Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:12.076Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:12.755Z] request.response: [https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii/completions] took 678 ms
+[INFO] [streamChoices] [2021-07-12T07:42:12.759Z] solution 0: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrsKQlo75DJto6bhVLNw3EdXULC}] created: [{1626075732}]
+[INFO] [streamChoices] [2021-07-12T07:42:12.760Z] solution 1: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrsKQlo75DJto6bhVLNw3EdXULC}] created: [{1626075732}]
+[INFO] [streamChoices] [2021-07-12T07:42:12.761Z] solution 2: [,] reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-3KkrsKQlo75DJto6bhVLNw3EdXULC}] created: [{1626075732}]
+[INFO] [default] [2021-07-12T07:42:15.019Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:33.611Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii
+[INFO] [default] [2021-07-12T07:42:34.410Z] [fetchCompletions] engine https://copilot.githubassets.com/v1/engines/github-py-stochbpe-cushman-pii

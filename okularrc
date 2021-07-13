@@ -1,0 +1,20 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/IMG_20210628_174856.jpg,file:$HOME/Downloads/IMG_20210628_174856.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI1 XPosition 1920x1080=251
+HDMI1 YPosition 1920x1080=239
+State=AAAA/wAAAAD9AAAAAAAABQAAAAKEAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 Window-Maximized 1366x768=true
+eDP1 XPosition 1366x768=0
+eDP1 YPosition 1366x768=29
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Webcam/2021-07-07-120640.jpg
+Name1[$e]=2021-07-07-120640.jpg

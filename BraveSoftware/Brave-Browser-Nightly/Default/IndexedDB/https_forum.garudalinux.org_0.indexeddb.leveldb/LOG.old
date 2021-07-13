@@ -1,0 +1,6 @@
+2021/06/16-21:35:16.554 6cbd Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb since it was missing.
+2021/06/16-21:35:16.562 6cbd Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/16-21:45:49.004 7220 Level-0 table #5: started
+2021/06/16-21:45:49.044 7220 Level-0 table #5: 228095 bytes OK
+2021/06/16-21:45:49.049 7220 Delete type=0 #3
+2021/06/16-21:45:49.052 7220 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

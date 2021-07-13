@@ -1,0 +1,6 @@
+2021/07/02-18:33:49.974 3081 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb since it was missing.
+2021/07/02-18:33:49.980 3081 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/02-18:47:49.242 31e3 Level-0 table #5: started
+2021/07/02-18:47:49.246 31e3 Level-0 table #5: 3317 bytes OK
+2021/07/02-18:47:49.249 31e3 Delete type=0 #3
+2021/07/02-18:47:49.249 31e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+2021/07/09-09:14:21.787 5b81 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-09:14:21.788 5b81 Recovering log #198
+2021/07/09-09:14:21.826 5b81 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000198.log 
+2021/07/09-09:23:58.938 5c22 Level-0 table #204: started
+2021/07/09-09:23:58.984 5c22 Level-0 table #204: 1495292 bytes OK
+2021/07/09-09:23:58.987 5c22 Delete type=0 #198
+2021/07/09-09:24:07.837 5d9e Compacting 1@1 + 2@2 files
+2021/07/09-09:24:07.920 5d9e Generated table #205@1: 7516 keys, 2163872 bytes
+2021/07/09-09:24:07.984 5d9e Generated table #206@1: 8032 keys, 1978251 bytes
+2021/07/09-09:24:07.984 5d9e Compacted 1@1 + 2@2 files => 4142123 bytes
+2021/07/09-09:24:07.986 5d9e compacted to: files[ 0 0 2 0 0 0 0 ]

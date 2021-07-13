@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "build.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/ticket-empty-32.png",
+      "default_popup": "popup/bc-plugin.html",
+      "default_title": "Privacy Pass"
+   },
+   "description": "Client support for Privacy Pass anonymous authorization protocol.",
+   "differential_fingerprint": "1.fdde4067065f560ce24c0ecaa82be00179515db1c301ed27207b8d2268acd556",
+   "icons": {
+      "128": "icons/ticket-128.png",
+      "32": "icons/ticket-32.png",
+      "48": "icons/ticket-48.png",
+      "64": "icons/ticket-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+4jtcLKojQjUGnB5w1pxu/NGbFaqeyjaMVSR0zgKEov2FkjMIKRsASpcGIgJV9SpJk4mAkFV1g0RwexL/c96amK+TMduH0BDe/oVC+kVD7f5JbVRZQwAC9LnElDBRW32ujY+t/BvO3K6FHgKKzevkBA+0kPKRhBb3IYVluHdqSZtT5g1EmPGfXXuddICHpi8BlnBFIYFoCneNSYL2LtrDySlhrWkTkNaBvrM32wWG7JOnJATyz4XvkapdFihfYG2GJLiE+0uY6fnWoLQIKy5qXPaXBHhIS8bx6Ge3EpX56TEWVXGc5dVqEb4GspHYUPfrqm3nrBFKNNWfH6ZjwtOQIDAQAB",
+   "manifest_version": 2,
+   "name": "Privacy Pass",
+   "permissions": [ "cookies", "\u003Call_urls>", "webRequest", "webRequestBlocking", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.9"
+}

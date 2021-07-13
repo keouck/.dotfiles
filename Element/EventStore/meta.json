@@ -1,0 +1,112 @@
+{
+  "segments": [
+    {
+      "segment_id": "0a2c799c-9281-4be9-9d48-0d788e519a0b",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "22f654de-fd87-442f-8e35-19b096f8deaa",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "281bd5f0-b571-449b-9fb3-d2eb08c9ce43",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "3c0c21ba-1467-4953-9ffa-3b31dfc7051b",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "3c9ee89b-7caf-4e76-b203-0ee391ea360c",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "47ea62b4-55e3-4423-ad77-4d6f1a679217",
+      "max_doc": 1,
+      "deletes": null
+    }
+  ],
+  "schema": [
+    {
+      "name": "body",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": false
+      }
+    },
+    {
+      "name": "topic",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": false
+      }
+    },
+    {
+      "name": "name",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "tokenizer": "default"
+        },
+        "stored": false
+      }
+    },
+    {
+      "name": "date",
+      "type": "u64",
+      "options": {
+        "indexed": false,
+        "fast": "single",
+        "stored": false
+      }
+    },
+    {
+      "name": "sender",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "basic",
+          "tokenizer": "raw"
+        },
+        "stored": false
+      }
+    },
+    {
+      "name": "room_id",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "basic",
+          "tokenizer": "raw"
+        },
+        "stored": true
+      }
+    },
+    {
+      "name": "event_id",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "basic",
+          "tokenizer": "raw"
+        },
+        "stored": true
+      }
+    }
+  ],
+  "opstamp": 22
+}

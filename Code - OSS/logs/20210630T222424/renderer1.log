@@ -1,0 +1,1 @@
+[2021-06-30 22:24:52.530] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/github/package.json'

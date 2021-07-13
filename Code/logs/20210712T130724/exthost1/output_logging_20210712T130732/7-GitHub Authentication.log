@@ -1,0 +1,5 @@
+[Trace  - 07:07:34.958] Token acquired from secret storage.
+[Trace  - 07:07:34.958] Read the following session from the keychain with the following scopes: read:user
+[Info  - 07:07:34.959] Getting user info...
+[Info  - 07:07:41.125] Got account info!
+[Info  - 07:07:41.126] Verified sesion with the following scopes: read:user

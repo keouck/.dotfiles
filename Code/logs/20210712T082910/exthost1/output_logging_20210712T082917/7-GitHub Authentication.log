@@ -1,0 +1,9 @@
+[Info  - 02:29:29.766] Logging in for the following scopes: read:user
+[Trace  - 02:29:52.30] Handling Uri...
+[Info  - 02:29:52.30] Exchanging code for token...
+[Info  - 02:29:53.585] Token exchange success!
+[Info  - 02:29:53.587] Getting user info...
+[Info  - 02:29:58.958] Got account info!
+[Info  - 03:30:20.684] Login success!
+[Trace  - 03:30:20.715] Token acquired from secret storage.
+[Trace  - 03:30:20.715] Read the following session from the keychain with the following scopes: read:user

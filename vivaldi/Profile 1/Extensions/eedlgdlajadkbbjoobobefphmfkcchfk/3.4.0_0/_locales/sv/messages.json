@@ -1,0 +1,154 @@
+{
+   "bookmark_notice": {
+      "description": "",
+      "message": "Saknar du dina bokmärken? Se till att rutan \u003Cstrong>Visa alltid bokmärkesfältet\u003C/strong>är vald i dina Google Chrome-inställningar "
+   },
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia sök"
+   },
+   "common_header_menu_about": {
+      "description": "",
+      "message": "Om oss"
+   },
+   "common_header_menu_blog": {
+      "description": "",
+      "message": "Blogg"
+   },
+   "common_header_menu_default": {
+      "description": "",
+      "message": "Gör standardsökning"
+   },
+   "common_header_menu_faq": {
+      "description": "",
+      "message": "Vanliga frågor"
+   },
+   "common_header_menu_giftingtrees": {
+      "description": "",
+      "message": "Ge bort träd"
+   },
+   "common_header_menu_how": {
+      "description": "",
+      "message": "Hur Ecosia fungerar"
+   },
+   "common_header_menu_jobs": {
+      "description": "",
+      "message": "Jobb"
+   },
+   "common_header_menu_mobileapp": {
+      "description": "",
+      "message": "Mobilapp"
+   },
+   "common_header_menu_new": {
+      "description": "",
+      "message": "Nyhet"
+   },
+   "common_header_menu_news_mobile": {
+      "description": "",
+      "message": "Nyheter"
+   },
+   "common_header_menu_privacy": {
+      "description": "",
+      "message": "Integritet"
+   },
+   "common_header_menu_settings": {
+      "description": "",
+      "message": "Inställningar"
+   },
+   "common_header_menu_shop": {
+      "description": "",
+      "message": "Webshop"
+   },
+   "common_header_menu_titletag": {
+      "description": "",
+      "message": "Meny"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Sök urval med Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Läs mer"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Inte den sida du förväntade dig? Läs mer om hur du återställer bokmärken och hur du anpassar nya flikar."
+   },
+   "new_tab_page_or": {
+      "description": "",
+      "message": "eller"
+   },
+   "new_tab_page_removed": {
+      "description": "",
+      "message": "Borttagen hemsida"
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Återställ allt"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Miniatyr borttagen"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Ny flik"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Ångra"
+   },
+   "pop_up_greenleaf": {
+      "description": "",
+      "message": "Den här organisation gör hållbara val."
+   },
+   "pop_up_greenleaf_ecosia": {
+      "description": "",
+      "message": "Ecosia hjälper dig att göra grönare och mer hållbara val."
+   },
+   "pop_up_greenleaf_ecosia_org": {
+      "description": "",
+      "message": "ecosia.org"
+   },
+   "pop_up_greenleaf_go_to": {
+      "description": "",
+      "message": "Gå till"
+   },
+   "pop_up_greenleaf_learnmore": {
+      "description": "",
+      "message": "Läs mer"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Sök på webben för att plantera träd..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Tillägget sätter din sökmotor till Ecosia så att du kan plantera träd med varje sökning."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Tillägget sätter din sökmotor till Ecosia och anpassar din nya flik så att du kan plantera träd med varje sökning."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Tillägget omdirigerar dina sökningar från omniboxen till en Ecosiasökning."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - sökmotorn som planterar träd"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibox-omdirigering (Legacy)"
+   },
+   "totalcounter_body": {
+      "description": "",
+      "message": "Träd planterade av Ecosia-användare"
+   },
+   "treecounter_description": {
+      "description": "",
+      "message": "Träd planterade av Ecosia-användare"
+   }
+}

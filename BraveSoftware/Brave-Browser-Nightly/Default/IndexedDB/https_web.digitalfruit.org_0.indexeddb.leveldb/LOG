@@ -1,0 +1,15 @@
+2021/07/01-11:06:04.700 1f76 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_web.digitalfruit.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-11:06:04.701 1f76 Recovering log #7
+2021/07/01-11:06:04.702 1f76 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_web.digitalfruit.org_0.indexeddb.leveldb/000007.log 
+2021/07/01-11:07:12.464 1f76 Level-0 table #12: started
+2021/07/01-11:07:12.468 1f76 Level-0 table #12: 8627 bytes OK
+2021/07/01-11:07:12.471 1f76 Delete type=0 #7
+2021/07/01-11:07:12.471 1f76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/01-11:07:12.472 1f76 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x08\x00d\x00b\x002\x009\x008\x009\x004\x000' @ 853 : 1
+2021/07/01-11:07:12.472 1f76 Compacting 1@1 + 1@2 files
+2021/07/01-11:07:12.475 1f76 Generated table #13@1: 149 keys, 6852 bytes
+2021/07/01-11:07:12.475 1f76 Compacted 1@1 + 1@2 files => 6852 bytes
+2021/07/01-11:07:12.478 1f76 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/01-11:07:12.479 1f76 Delete type=2 #9
+2021/07/01-11:07:12.479 1f76 Delete type=2 #12
+2021/07/01-11:07:12.479 1f76 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x08\x00d\x00b\x002\x009\x008\x009\x004\x000' @ 853 : 1 .. (end); will stop at (end)

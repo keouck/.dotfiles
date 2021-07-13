@@ -1,0 +1,36 @@
+2021-07-13T02:57:26.884Z I "the monkey has been patched"
+2021-07-13T02:57:27.202Z I "version:  ","3.84.11"
+2021-07-13T02:57:27.687Z I "config up to date"
+2021-07-13T02:57:27.880Z I "scheduling to check sse in",1,"seconds"
+2021-07-13T02:57:27.890Z I "startFile: ","file:///tmp/.mount_tutanofpAYKV/resources/app.asar/index-desktop.html"
+2021-07-13T02:57:28.176Z I "getting dictionaries from:","https://mail.tutanota.com/desktop/dictionaries/"
+2021-07-13T02:57:28.384Z I "default mailto handler:",false
+2021-07-13T02:57:28.423Z W "device key not found, generating a new one"
+2021-07-13T02:57:28.882Z I "scheduling to check sse in",10,"seconds"
+2021-07-13T02:57:28.882Z I "sse info not available, skip reconnect"
+2021-07-13T02:57:30.254Z I "Webapp ready"
+2021-07-13T02:57:30.263Z I "autoUpdater info:\n","Checking for update"
+2021-07-13T02:57:30.264Z I "autoUpdater info:\n","checking-for-update"
+2021-07-13T02:57:30.474Z I "desktop file exists, checking version..."
+2021-07-13T02:57:31.541Z I "autoUpdater info:\n","Update for version 3.84.11 is not available (latest version: 3.84.11, downgrade is disallowed)."
+2021-07-13T02:57:31.545Z I "autoUpdater info:\n","update not available:",{"version":"3.84.11","files":[{"url":"tutanota-desktop-linux.AppImage","sha512":"OnklbI3GGMHaq+2lMhnri0z3QrLAepzVNYcND2fXG8dWwh78kyKZxVMPTwvFNwKw6F43eUx97riBSZ3xpciyxg==","size":88389710,"blockMapSize":92258}],"path":"tutanota-desktop-linux.AppImage","sha512":"OnklbI3GGMHaq+2lMhnri0z3QrLAepzVNYcND2fXG8dWwh78kyKZxVMPTwvFNwKw6F43eUx97riBSZ3xpciyxg==","releaseDate":"2021-07-07T12:23:57.364Z","signature":"Qxlc/IasNrqt9Vckcu0Vkka1TlIjwlmwI0Ux2EmD+IZN8DoPIxms7Ttw3SV/tfVENZJj+mDpo/XazQog1NpT9ZuqPfVaqOJuy6gmgbhbi3h7E75wxH6Uvzz/8VvEBXWf0mn6alqn0q93jZQY6krxhy8tk5w1fMHNA3frycbhskFiHJlcHNWE+lkpGLpT+o0krTv7l5jQKT40LRVyvgXBl2cQBY/vDjVg0se4EDUkWwhCE7p561DcrEHlg5rVA3LnAbbDOikm+KaQHYBZOxWnvrqA+VjxJdtCIIHcPT8q89+TrZllE28dwQSvLVh321keRS1cm78q/4GCvFU3II9DBQ=="}
+2021-07-13T02:57:33.882Z I "storing push identifier"
+2021-07-13T02:57:33.901Z W "device key not found, generating a new one"
+2021-07-13T02:57:33.903Z W "device key not found, generating a new one"
+2021-07-13T02:57:38.898Z I "last missed notification check:",{}
+2021-07-13T02:57:38.898Z I "scheduling to check sse in",102,"seconds"
+2021-07-13T02:57:38.899Z I "starting sse connection"
+2021-07-13T02:57:39.796Z I "lookup sse request"
+2021-07-13T02:57:40.369Z I "established SSE connection"
+2021-07-13T02:57:40.374Z I "received new timeout:","heartbeatTimeout:240"
+2021-07-13T02:57:40.375Z I "scheduling to check sse in",288,"seconds"
+2021-07-13T02:57:40.375Z I "sse heartbeat",240
+2021-07-13T02:57:40.375Z I "scheduling to check sse in",288,"seconds"
+2021-07-13T02:57:40.376Z I "sse heartbeat",240
+2021-07-13T02:57:40.376Z I "scheduling to check sse in",288,"seconds"
+2021-07-13T02:57:40.378Z I "downloading missed notification"
+2021-07-13T02:57:40.387Z I "lookup"
+2021-07-13T02:57:41.014Z I "missed notification response",200
+2021-07-13T02:57:41.021Z I "MissedNotification is empty"
+2021-07-13T02:57:41.023Z I "scheduling to check sse in",288,"seconds"
+2021-07-13T02:57:41.036Z I "dl missed notification response closed"

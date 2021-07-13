@@ -1,0 +1,4 @@
+[Info  - 20:00:11.436] Started security hotspot handler on port 64120
+[Info  - 20:00:11.625] Analyzing file 'file:///home/anon/Documents/House-price-prediction/website/templates/predict.html'...
+[Info  - 20:00:16.491] Creating container for module with key=file:///home/anon/Documents/House-price-prediction
+[Info  - 20:00:18.106] Found 3 issues

@@ -1,0 +1,6 @@
+2021/06/18-11:26:05.428 1332 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb since it was missing.
+2021/06/18-11:26:05.436 1332 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/18-11:27:09.991 1436 Level-0 table #5: started
+2021/06/18-11:27:09.992 1436 Level-0 table #5: 868 bytes OK
+2021/06/18-11:27:09.995 1436 Delete type=0 #3
+2021/06/18-11:27:09.995 1436 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

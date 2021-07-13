@@ -1,0 +1,36 @@
+2021/07/07-15:05:38.043 5f01 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-15:05:38.045 5f01 Recovering log #369
+2021/07/07-15:05:38.045 5f01 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/000369.log 
+2021/07/07-15:05:38.045 5f01 Delete type=2 #368
+2021/07/07-15:06:07.113 5dc4 Level-0 table #374: started
+2021/07/07-15:06:07.115 5dc4 Level-0 table #374: 603 bytes OK
+2021/07/07-15:06:07.116 5dc4 Delete type=0 #369
+2021/07/07-15:06:07.117 5dc4 Manual compaction at level-0 from '\x00o\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at '\x00p\x00\x00\x05' @ 2234 : 1
+2021/07/07-15:06:07.117 5dc4 Compacting 1@0 + 1@1 files
+2021/07/07-15:06:07.124 5dc4 Generated table #375@0: 75 keys, 1297 bytes
+2021/07/07-15:06:07.124 5dc4 Compacted 1@0 + 1@1 files => 1297 bytes
+2021/07/07-15:06:07.126 5dc4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/07-15:06:07.127 5dc4 Delete type=2 #374
+2021/07/07-15:06:07.127 5dc4 Manual compaction at level-0 from '\x00p\x00\x00\x05' @ 2234 : 1 .. '\x00p\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-15:06:07.128 5f02 Level-0 table #377: started
+2021/07/07-15:06:07.131 5f02 Level-0 table #377: 476 bytes OK
+2021/07/07-15:06:07.132 5f02 Delete type=0 #373
+2021/07/07-15:06:07.133 5f02 Delete type=2 #371
+2021/07/07-15:06:07.133 5f02 Manual compaction at level-0 from '\x00p\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00q\x00\x00\x00' @ 0 : 0; will stop at '\x00p\x00\x00\x05' @ 2261 : 0
+2021/07/07-15:06:07.133 5f02 Compacting 1@0 + 1@1 files
+2021/07/07-15:06:07.134 5f02 Generated table #378@0: 72 keys, 1236 bytes
+2021/07/07-15:06:07.134 5f02 Compacted 1@0 + 1@1 files => 1236 bytes
+2021/07/07-15:06:07.138 5f02 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/07-15:06:07.139 5f02 Delete type=2 #377
+2021/07/07-15:06:07.139 5f02 Manual compaction at level-0 from '\x00p\x00\x00\x05' @ 2261 : 0 .. '\x00q\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-15:06:37.095 5de5 Level-0 table #380: started
+2021/07/07-15:06:37.097 5de5 Level-0 table #380: 518 bytes OK
+2021/07/07-15:06:37.100 5de5 Delete type=2 #375
+2021/07/07-15:06:37.100 5de5 Delete type=0 #376
+2021/07/07-15:06:37.100 5de5 Manual compaction at level-0 from '\x00q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00r\x00\x00\x00' @ 0 : 0; will stop at '\x00q\x00\x00\x05' @ 2267 : 1
+2021/07/07-15:06:37.100 5de5 Compacting 1@0 + 1@1 files
+2021/07/07-15:06:37.103 5de5 Generated table #381@0: 72 keys, 1239 bytes
+2021/07/07-15:06:37.103 5de5 Compacted 1@0 + 1@1 files => 1239 bytes
+2021/07/07-15:06:37.104 5de5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/07-15:06:37.105 5de5 Delete type=2 #380
+2021/07/07-15:06:37.105 5de5 Manual compaction at level-0 from '\x00q\x00\x00\x05' @ 2267 : 1 .. '\x00r\x00\x00\x00' @ 0 : 0; will stop at (end)

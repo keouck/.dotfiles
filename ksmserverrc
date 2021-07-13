@@ -1,0 +1,30 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10616e6f6e000162611101600000008390005
+clientId2=10616e6f6e000162346477900000008760006
+clientId3=10616e6f6e000162611101700000008390007
+clientId4=10616e6f6e000162385695900000008680090
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kgpg_10616e6f6e000162346477900000008760006_1626113349_573252
+discardCommand4[$e]=rm,-f,$HOME/.cache/sessions/Thunar-10616e6f6e000162385695900000008680090
+program1=/usr/bin/latte-dock
+program2=/usr/bin/kgpg
+program3=pulseaudio
+program4=Thunar
+restartCommand1=/usr/bin/latte-dock,-session,10616e6f6e000162611101600000008390005_1626113349_573259
+restartCommand2=/usr/bin/kgpg,-session,10616e6f6e000162346477900000008760006_1626113349_573252
+restartCommand3=
+restartCommand4=Thunar,--sm-client-id,10616e6f6e000162385695900000008680090,--daemon
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=anon
+userId2=anon
+userId3=anon
+userId4=anon

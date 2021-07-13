@@ -1,0 +1,15 @@
+2021/06/29-09:13:47.014 db66 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/29-09:13:47.015 db66 Recovering log #4
+2021/06/29-09:13:47.175 db66 Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/000004.log 
+2021/06/29-09:19:20.333 df25 Level-0 table #8: started
+2021/06/29-09:19:20.415 df25 Level-0 table #8: 320668 bytes OK
+2021/06/29-09:19:20.430 df25 Delete type=0 #4
+2021/06/29-09:19:20.432 dd3d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/29-09:19:20.432 dd3d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x08\x03\x01$\x00b\x001\x000\x00c\x007\x002\x008\x005\x00-\x007\x00a\x006\x00d\x00-\x004\x007\x00d\x005\x00-\x008\x005\x001\x00f\x00-\x00d\x009\x007\x001\x009\x007\x00e\x006\x009\x009\x005\x00b' @ 15815 : 1
+2021/06/29-09:19:20.433 dd3d Compacting 1@1 + 1@2 files
+2021/06/29-09:19:20.469 dd3d Generated table #9@1: 174 keys, 8317 bytes
+2021/06/29-09:19:20.469 dd3d Compacted 1@1 + 1@2 files => 8317 bytes
+2021/06/29-09:19:20.471 dd3d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/29-09:19:20.472 dd3d Delete type=2 #5
+2021/06/29-09:19:20.472 dd3d Delete type=2 #8
+2021/06/29-09:19:20.474 df25 Manual compaction at level-1 from '\x00\x01\x08\x03\x01$\x00b\x001\x000\x00c\x007\x002\x008\x005\x00-\x007\x00a\x006\x00d\x00-\x004\x007\x00d\x005\x00-\x008\x005\x001\x00f\x00-\x00d\x009\x007\x001\x009\x007\x00e\x006\x009\x009\x005\x00b' @ 15815 : 1 .. (end); will stop at (end)

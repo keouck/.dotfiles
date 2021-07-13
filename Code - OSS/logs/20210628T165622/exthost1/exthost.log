@@ -1,0 +1,52 @@
+[2021-06-28 16:56:34.200] [exthost] [info] extension host started
+[2021-06-28 16:56:34.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-28 16:56:34.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-06-28 16:56:34.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-28 16:56:34.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-06-28 16:56:34.431] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2021-06-28 16:56:34.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/src/extension.js
+[2021-06-28 16:56:34.543] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-28 16:56:34.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-28 16:56:34.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-28 16:56:34.919] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-06-28 16:56:35.013] [exthost] [info] eager extensions activated
+[2021-06-28 16:56:35.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:35.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-28 16:56:35.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:35.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-28 16:56:35.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:35.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-28 16:56:35.038] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb {"startup":false,"extensionId":{"value":"vadimcn.vscode-lldb","_lower":"vadimcn.vscode-lldb"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:35.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/vadimcn.vscode-lldb-1.6.5/extension.js
+[2021-06-28 16:56:45.997] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-28 16:56:47.005] [exthost] [info] exiting with code 0
+[2021-06-28 16:56:49.153] [exthost] [info] extension host started
+[2021-06-28 16:56:49.364] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2021-06-28 16:56:49.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/ms-python.python-2020.10.332292344/out/client/extension
+[2021-06-28 16:56:49.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"SonarSource.sonarlint-vscode","_lower":"sonarsource.sonarlint-vscode"},"activationEvent":"onLanguage:python"}
+[2021-06-28 16:56:49.599] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-06-28 16:56:49.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-28 16:56:49.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-06-28 16:56:49.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-28 16:56:49.646] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-06-28 16:56:49.672] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2021-06-28 16:56:49.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/robbowen.synthwave-vscode-0.1.8/src/extension.js
+[2021-06-28 16:56:49.756] [exthost] [info] ExtensionService#_doActivateExtension SonarSource.sonarlint-vscode {"startup":false,"extensionId":{"value":"SonarSource.sonarlint-vscode","_lower":"sonarsource.sonarlint-vscode"},"activationEvent":"onView:SonarLint.AllRules"}
+[2021-06-28 16:56:49.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/sonarsource.sonarlint-vscode-2.0.0/dist/extension
+[2021-06-28 16:56:49.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-28 16:56:49.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-06-28 16:56:50.007] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-28 16:56:50.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-28 16:56:50.279] [exthost] [info] eager extensions activated
+[2021-06-28 16:56:50.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:50.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-28 16:56:50.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:50.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-28 16:56:50.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:50.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-28 16:56:50.822] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb {"startup":false,"extensionId":{"value":"vadimcn.vscode-lldb","_lower":"vadimcn.vscode-lldb"},"activationEvent":"onStartupFinished"}
+[2021-06-28 16:56:50.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode-oss/extensions/vadimcn.vscode-lldb-1.6.5/extension.js
+[2021-06-28 16:56:58.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-06-28 16:56:58.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-06-28 17:06:45.587] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-28 17:06:46.645] [exthost] [info] exiting with code 0

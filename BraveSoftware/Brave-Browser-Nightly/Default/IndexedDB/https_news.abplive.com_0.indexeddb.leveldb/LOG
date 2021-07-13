@@ -1,0 +1,6 @@
+2021/06/19-12:41:18.173 2dba Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_news.abplive.com_0.indexeddb.leveldb since it was missing.
+2021/06/19-12:41:18.176 2dba Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_news.abplive.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/19-13:36:14.358 35c2 Level-0 table #5: started
+2021/06/19-13:36:14.360 35c2 Level-0 table #5: 13024 bytes OK
+2021/06/19-13:36:14.362 35c2 Delete type=0 #3
+2021/06/19-13:36:14.362 35c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

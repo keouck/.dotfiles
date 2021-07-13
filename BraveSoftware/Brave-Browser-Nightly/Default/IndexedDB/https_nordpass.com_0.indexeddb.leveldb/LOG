@@ -1,0 +1,6 @@
+2021/06/12-11:25:07.025 15b1 Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_nordpass.com_0.indexeddb.leveldb since it was missing.
+2021/06/12-11:25:07.029 15b1 Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_nordpass.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-11:26:17.624 15b5 Level-0 table #5: started
+2021/06/12-11:26:17.625 15b5 Level-0 table #5: 1441 bytes OK
+2021/06/12-11:26:17.626 15b5 Delete type=0 #3
+2021/06/12-11:26:17.627 15b5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

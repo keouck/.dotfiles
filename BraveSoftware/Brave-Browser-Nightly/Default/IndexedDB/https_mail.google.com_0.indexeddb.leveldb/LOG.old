@@ -1,0 +1,12 @@
+2021/07/01-17:02:10.333 2aee Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-17:02:10.333 2aee Recovering log #27
+2021/07/01-17:02:10.359 2aee Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2021/07/01-17:02:29.759 2cab Level-0 table #32: started
+2021/07/01-17:02:29.787 2cab Level-0 table #32: 1785643 bytes OK
+2021/07/01-17:02:29.790 2cab Delete type=0 #27
+2021/07/01-17:07:27.254 2cfa Compacting 1@1 + 1@2 files
+2021/07/01-17:07:27.268 2cfa Generated table #33@1: 169 keys, 141541 bytes
+2021/07/01-17:07:27.268 2cfa Compacted 1@1 + 1@2 files => 141541 bytes
+2021/07/01-17:07:27.269 2cfa compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/01-17:07:27.269 2cfa Delete type=2 #29
+2021/07/01-17:07:27.269 2cfa Delete type=2 #32

@@ -1,0 +1,16 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.7.4",
+		"GoogleTranslateOption": "2.2.7",
+		"ShowHiddenChannels": "3.0.1",
+		"Translator": "2.2.9"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}

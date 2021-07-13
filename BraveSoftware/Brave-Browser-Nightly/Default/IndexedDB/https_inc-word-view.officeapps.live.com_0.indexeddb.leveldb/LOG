@@ -1,0 +1,15 @@
+2021/07/05-21:14:57.505 6fac Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_inc-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-21:14:57.506 6fac Recovering log #4
+2021/07/05-21:14:57.506 6fac Reusing old log /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_inc-word-view.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2021/07/05-21:15:10.902 6f21 Level-0 table #8: started
+2021/07/05-21:15:10.904 6f21 Level-0 table #8: 209 bytes OK
+2021/07/05-21:15:10.905 6f21 Delete type=0 #4
+2021/07/05-21:15:10.905 6f21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/05-21:15:10.905 6f21 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 46 : 1
+2021/07/05-21:15:10.905 6f21 Compacting 1@1 + 1@2 files
+2021/07/05-21:15:10.907 6f21 Generated table #9@1: 19 keys, 560 bytes
+2021/07/05-21:15:10.907 6f21 Compacted 1@1 + 1@2 files => 560 bytes
+2021/07/05-21:15:10.908 6f21 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/05-21:15:10.908 6f21 Delete type=2 #5
+2021/07/05-21:15:10.908 6f21 Delete type=2 #8
+2021/07/05-21:15:10.908 6f21 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 46 : 1 .. (end); will stop at (end)

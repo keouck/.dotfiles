@@ -1,0 +1,108 @@
+[2021-07-11 16:33:21.486] [exthost] [info] extension host started
+[2021-07-11 16:33:21.598] [exthost] [error] Error: EEXIST: file already exists, open '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock'
+[2021-07-11 16:33:21.708] [exthost] [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at c (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:89176)
+    at async l (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:88817)
+    at async C._getWorkspaceStorageURI (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:87462)
+    at async C._getOrCreateWorkspaceStoragePath (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:29432)
+[2021-07-11 16:33:21.708] [exthost] [info] Lock '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-07-11 16:33:21.787] [exthost] [error] SyntaxError: Unexpected end of JSON input
+	at JSON.parse (<anonymous>)
+	at c (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:89176)
+	at async b (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:89434)
+	at async C._getWorkspaceStorageURI (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:87462)
+	at async C._getOrCreateWorkspaceStoragePath (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:85:29432)
+[2021-07-11 16:33:21.787] [exthost] [info] Lock '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock': Could not read pid of lock holder.
+[2021-07-11 16:33:21.787] [exthost] [info] Lock '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock': Deleting a stale lock.
+[2021-07-11 16:33:21.791] [exthost] [info] Lock '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock': Lock acquired.
+[2021-07-11 16:33:21.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-11 16:33:21.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-11 16:33:21.921] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-11 16:33:21.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension
+[2021-07-11 16:33:22.469] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-07-11 16:33:22.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/ms-toolsai.jupyter-2021.8.1013163132/out/client/extension
+[2021-07-11 16:33:23.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-11 16:33:23.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-11 16:33:23.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-11 16:33:23.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-07-11 16:33:23.482] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-07-11 16:33:23.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/github.copilot-1.1.1959/dist/extension
+[2021-07-11 16:33:23.854] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2021-07-11 16:33:23.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/robbowen.synthwave-vscode-0.1.8/src/extension.js
+[2021-07-11 16:33:24.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-11 16:33:24.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-11 16:33:25.647] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-11 16:33:25.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-11 16:33:26.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-11 16:33:26.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-07-11 16:33:29.857] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-11 16:33:29.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/extension.bundle.js
+[2021-07-11 16:33:31.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-11 16:33:31.796] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-11 16:33:31.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-11 16:33:31.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-11 16:33:31.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-11 16:33:31.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-11 16:33:31.851] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb {"startup":false,"extensionId":{"value":"vadimcn.vscode-lldb","_lower":"vadimcn.vscode-lldb"},"activationEvent":"onStartupFinished"}
+[2021-07-11 16:33:31.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anon/.vscode/extensions/vadimcn.vscode-lldb-1.6.5/extension.js
+[2021-07-11 16:47:38.090] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:47:38.091] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-11 16:48:06.702] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:48:06.702] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143141
+    at M.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:183488)
+[2021-07-11 16:48:06.775] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:48:06.776] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-11 16:49:19.461] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:49:19.461] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+    at M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-11 16:49:36.825] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:49:36.826] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-11 16:51:38.957] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:51:38.958] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+    at M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-11 16:51:52.670] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:51:52.671] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-11 16:58:03.824] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:58:03.824] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+    at M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-11 16:58:04.797] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:58:04.798] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+    at M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-11 16:58:05.450] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-11 16:58:05.451] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+    at E.handleFailedRequest (/home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+    at /home/anon/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+    at M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-11 17:29:17.909] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-11 17:29:17.910] [exthost] [info] Lock '/home/anon/.config/Code/User/workspaceStorage/87c162205d8a6983154e0bfe42545eb5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-11 17:29:17.955] [exthost] [info] eager extensions activated
+[2021-07-11 17:29:18.947] [exthost] [info] exiting with code 0

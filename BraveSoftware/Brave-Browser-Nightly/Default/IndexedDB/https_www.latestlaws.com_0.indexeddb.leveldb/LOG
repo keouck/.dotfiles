@@ -1,0 +1,7 @@
+2021/06/26-18:28:19.173 97ba Creating DB /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.latestlaws.com_0.indexeddb.leveldb since it was missing.
+2021/06/26-18:28:19.177 97ba Reusing MANIFEST /home/anon/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.latestlaws.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/26-18:28:19.291 9785 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/26-18:30:11.325 9874 Level-0 table #5: started
+2021/06/26-18:30:11.328 9874 Level-0 table #5: 2256 bytes OK
+2021/06/26-18:30:11.331 9874 Delete type=0 #3
+2021/06/26-18:30:11.332 9874 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
